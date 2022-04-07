@@ -55,7 +55,6 @@ Apartamento;Ipanema;3;2;1;150;8000.0;2400.0;0.0
 Apartamento;Ipanema;3;1;1;140;7900.0;2900.0;500.0
 Casa;Méier;2;0;0;51;1500.0;50.0;0.0
 Apartamento;Jardim Botânico;2;2;0;95;4000.0;1170.0;0.0
-Apartamento;Barra da Tijuca;2;1;1;70;;970.0;68.0
 Apartamento;Cachambi;2;0;0;60;1000.0;380.0;280.0
 Casa;São Conrado;4;2;4;730;28000.0;2000.0;12000.0
 Casa de Condomínio;Freguesia (Jacarepaguá);5;3;1;140;2500.0;1200.0;0.0
@@ -1452,7 +1451,6 @@ Apartamento;Copacabana;3;0;1;100;3000.0;950.0;2570.0
 Apartamento;Barra da Tijuca;4;3;2;361;8000.0;3068.0;0.0
 Apartamento;Grajaú;2;2;1;90;2700.0;1713.0;260.0
 Apartamento;São Conrado;4;3;4;530;25000.0;15330.0;0.0
-Apartamento;Leme;2;0;0;75;;878.0;0.0
 Apartamento;Barra da Tijuca;2;1;1;80;2500.0;1224.0;212.0
 Apartamento;Laranjeiras;2;1;0;80;2000.0;450.0;0.0
 Apartamento;Barra da Tijuca;3;2;1;105;2300.0;1500.0;0.0
@@ -1638,7 +1636,6 @@ Quitinete;Centro;0;0;0;25;650.0;435.0;0.0
 Apartamento;Tijuca;2;1;1;92;2900.0;907.0;0.0
 Apartamento;Recreio dos Bandeirantes;2;1;1;90;1700.0;549.0;212.0
 Apartamento;Barra da Tijuca;3;3;3;266;15000.0;3700.0;692.0
-Casa;Campo Grande;3;4;3;363;;0.0;0.0
 Apartamento;Copacabana;2;0;0;80;2400.0;995.0;180.0
 Apartamento;Tijuca;3;2;1;135;2000.0;920.0;2400.0
 Casa de Vila;Méier;3;1;1;80;2300.0;0.0;0.0
@@ -1958,7 +1955,6 @@ Apartamento;Laranjeiras;3;1;1;110;7200.0;1350.0;0.0
 Apartamento;Tijuca;2;0;2;68;1600.0;606.0;62.0
 Apartamento;Copacabana;3;0;1;115;2900.0;950.0;102.0
 Apartamento;Barra da Tijuca;4;4;4;235;17000.0;4400.0;1442.0
-Apartamento;Botafogo;2;0;0;95;;1010.0;170.0
 Apartamento;Recreio dos Bandeirantes;2;1;1;70;2000.0;690.0;185.0
 Apartamento;Botafogo;3;0;0;157;2700.0;970.0;200.0
 Apartamento;Camorim;2;1;1;50;1000.0;420.0;30.0
@@ -1979,7 +1975,6 @@ Apartamento;Botafogo;2;1;0;70;2800.0;750.0;12470.0
 Apartamento;Flamengo;2;0;0;72;2250.0;671.0;132.0
 Apartamento;Ipanema;4;2;1;140;7000.0;2500.0;0.0
 Apartamento;Leblon;3;1;1;150;7500.0;770.0;556.0
-Apartamento;Copacabana;2;0;0;72;;850.0;0.0
 Apartamento;Leblon;3;2;1;156;12000.0;2800.0;490.0
 Apartamento;Ipanema;4;3;2;230;7500.0;3880.0;708.0
 Apartamento;Grajaú;2;1;1;71;1700.0;863.0;0.0
@@ -4791,7 +4786,6 @@ Apartamento;Urca;2;0;0;75;2700.0;715.0;0.0
 Apartamento;Recreio dos Bandeirantes;2;1;1;110;2300.0;640.0;0.0
 Quitinete;Vargem Grande;1;0;0;35;800.0;230.0;0.0
 Apartamento;Ipanema;3;1;1;170;7000.0;1500.0;419.0
-Casa;Campo Grande;3;2;1;100;;0.0;0.0
 Apartamento;Copacabana;3;0;0;74;2500.0;750.0;152.0
 Quitinete;Centro;1;0;0;35;650.0;398.0;0.0
 Apartamento;Jardim Botânico;2;1;0;120;4000.0;1200.0;250.0
@@ -8285,7 +8279,6 @@ Apartamento;Ipanema;3;1;1;120;5000.0;1230.0;271.0
 Apartamento;Botafogo;2;1;1;103;2950.0;1026.0;215.0
 Apartamento;Barra da Tijuca;3;3;2;250;14000.0;3800.0;1100.0
 Apartamento;Barra da Tijuca;2;1;1;90;2450.0;1404.0;2819.0
-Apartamento;Leme;2;0;1;75;;878.0;0.0
 Apartamento;Tijuca;2;1;1;84;1800.0;815.0;107.0
 Apartamento;Ipanema;4;2;3;380;30000.0;2300.0;1800.0
 Apartamento;Recreio dos Bandeirantes;2;2;1;81;1900.0;700.0;1600.0
@@ -8653,7 +8646,6 @@ Casa;Jardim Botânico;3;0;0;115;4500.0;0.0;229.0
 Apartamento;Barra da Tijuca;4;4;4;435;25000.0;6960.0;1700.0
 Apartamento;Tijuca;2;1;0;61;1400.0;471.0;50.0
 Apartamento;São Conrado;1;2;1;60;1800.0;1170.0;60.0
-Apartamento;Glória;3;0;1;135;;910.0;228.0
 Apartamento;Flamengo;4;2;2;500;23000.0;3000.0;1504.0
 Apartamento;Tijuca;3;1;1;68;2400.0;1015.0;1152.0
 Apartamento;Leblon;3;1;0;90;3700.0;980.0;320.0
@@ -8849,7 +8841,6 @@ Apartamento;Botafogo;2;1;0;85;2700.0;785.0;120.0
 Apartamento;Flamengo;2;0;0;85;2450.0;700.0;120.0
 Apartamento;Copacabana;1;0;0;28;1000.0;350.0;0.0
 Casa de Condomínio;Recreio dos Bandeirantes;4;2;3;185;2400.0;880.0;334.0
-Apartamento;Gávea;3;1;1;105;;880.0;221.0
 Apartamento;Copacabana;1;0;0;25;1200.0;440.0;30.0
 Apartamento;Barra da Tijuca;3;2;1;140;3000.0;1402.0;0.0
 Apartamento;Jacaré;2;0;0;83;1000.0;250.0;25.0
